@@ -15,8 +15,14 @@ My name is G3ZZING better known as G3, and I'm from Brazil <code><img height="20
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/invisigoth59)
 
-<p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING"><img align="center" src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="G3ZZING stats" /></a></p>
+<details style='text-align: center;' align='center'>
+  <summary> Status </summary>
+  <p style="text-align: center;"align="center">============================================================</p>
+  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING"><img align="center" src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="G3ZZING stats" /></a></p>
   <p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a></p>
+  <p style="text-align: center;"align="center">============================================================</p>
+</details>
+
   
 # 
 
