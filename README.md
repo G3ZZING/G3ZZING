@@ -36,7 +36,7 @@
 </details>
 
 ### *Spotify Playing 🎧*
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/G3ZZING)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/G3./)
 
 #
 
