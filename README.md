@@ -42,7 +42,7 @@
 
 # 
 
-<img align="left" alt="GIF" src="https://data.whicdn.com/images/342427514/original.gif" />
+<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif" />
   
   **I'd rather be a hobby programmer than a job, don't be a programmer for being. Put some heart into what you do! I execute my projects with joy & a lot of effort. Don't forget "Your terminal is the source of your capabilities and planning, and your system has to be based on your own thoughts."** 🤔
   
