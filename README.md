@@ -44,7 +44,7 @@
 
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif" />
   
-  **I'd rather be a hobby programmer than a job, don't be a programmer for being. Put some heart into what you do! I execute my projects with joy & a lot of effort. Don't forget "Your terminal is the source of your capabilities and planning, and your system has to be based on your own thoughts."** 🤔
+  **We change the world every day. But to change the world in a meaningful way takes much longer than people have. It never happens at the same time. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it."** 🤔
   
   
 
