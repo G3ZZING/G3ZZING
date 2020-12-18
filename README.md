@@ -42,10 +42,11 @@
 
 # 
 
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif" />
-  
-  **"We change the world every day. But to change the world in a meaningful way takes much longer than people have. It never happens at the same time. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it."** 🌍
-  
+<img align="right"" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif" />
+  <br>
+  <p align="center"> **"私たちは毎日世界を変えています。しかし、意味のある方法で世界を変えるには、人々が持っているよりもはるかに長い時間がかかります。それが同時に起こることは決してありません。
+      遅いです。それは整然としています。疲れます。私たち全員がそのための胃を持っているわけではありません。"** 🌍
+  </p>
   
 
 
