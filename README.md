@@ -42,7 +42,7 @@
 
 # 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://media.discordapp.net/attachments/708003453351231560/789530797140869210/tumblr_p7fsq2B6K71umgtvqo2_400.gif" />
+<img align="right" alt="GIF" height="400" width="800" src="https://media.discordapp.net/attachments/708003453351231560/789531149038387210/9d37e9ab4fa26437516983a513237f03.gif?width=473&height=473" />
   <br>
   <p align="center"> 私たちは毎日世界を変え、平和を望んでいます。しかし、これを達成するためのあなた自身の努力について考えましたか、それともそれはすべて単なる詐欺ですか？私たちは、これがいつか起こる可能性があると確信しています。だからどこでもそれをしなさい。
 </p>
