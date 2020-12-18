@@ -42,12 +42,12 @@
 
 # 
 
-<img align="right"" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif" />
+<img align="right" alt="GIF" height="400" width="800" src="https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif" />
   <br>
-  <p align="center"> **"私たちは毎日世界を変えています。しかし、意味のある方法で世界を変えるには、人々が持っているよりもはるかに長い時間がかかります。それが同時に起こることは決してありません。
-      遅いです。それは整然としています。疲れます。私たち全員がそのための胃を持っているわけではありません。"** 🌍
+  <p align="center"> 私たちは毎日世界を変え、平和を望んでいます。しかし、あなたはこれを達成するためのあなた自身の努力について考えましたか、それともそれはすべて単なる詐欺ですか？私たちは、これがいつか起こる可能性があると確信しています。だからどこ。
   </p>
   
+  https://cdn.discordapp.com/attachments/708003453351231560/787387089532354610/220babfd5f8b629cc16399497ed9dd96.gif
 
 
 
