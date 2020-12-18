@@ -7,7 +7,7 @@
 <a href="https://twitch.tv/yg3zzing" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/708003453351231560/789529942353510430/1608309000009.png" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/708003453351231560/789530529917304852/1608309141571.png" />
 
 <p align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</p>
 
@@ -42,7 +42,7 @@
 
 # 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://cdn.discordapp.com/avatars/755246857340583976/a_603b0ece523262bf7c826e94a215a791.gif?size=2048" />
+<img align="right" alt="GIF" height="400" width="800" src="https://media.discordapp.net/attachments/708003453351231560/789530797140869210/tumblr_p7fsq2B6K71umgtvqo2_400.gif" />
   <br>
   <p align="center"> 私たちは毎日世界を変え、平和を望んでいます。しかし、これを達成するためのあなた自身の努力について考えましたか、それともそれはすべて単なる詐欺ですか？私たちは、これがいつか起こる可能性があると確信しています。だからどこでもそれをしなさい。
 </p>
