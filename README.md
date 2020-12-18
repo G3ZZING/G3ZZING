@@ -7,7 +7,7 @@
 <a href="https://twitch.tv/yg3zzing" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ff/71/7b/ff717b89dc287b90697c6272c602a610.gif" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/708003453351231560/789529942353510430/1608309000009.png" />
 
 <p align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</p>
 
