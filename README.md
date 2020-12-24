@@ -12,7 +12,7 @@
 
 <a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/791013889244135484/1608309141571.png" />
 
-<p align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</p>
+<h3 align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=001eff" alt="G3" /> </p>
 
