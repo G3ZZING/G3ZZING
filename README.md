@@ -1,6 +1,6 @@
 #                                                                    *G3ZZING*
 
- ──────────────────────────── <img src="https://cdn.discordapp.com/attachments/708003453351231560/791664231539933194/Japa.gif?raw=true" height="30px" width="30px"/> ────────────────────────────
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://cdn.discordapp.com/attachments/708003453351231560/791666366456528906/iniciado.gif?raw=true" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 
 <h3 align="center">Connect with me</h3>
