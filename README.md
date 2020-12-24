@@ -1,5 +1,7 @@
 #                                                                    *G3ZZING*
 
+──────────────────────────── <img align="left" src="https://cdn.discordapp.com/attachments/708003453351231560/791664231539933194/Japa.gif" height="30px" width="30px"/>────────────────────────────
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
