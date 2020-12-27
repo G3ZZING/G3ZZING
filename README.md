@@ -38,7 +38,7 @@
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 
-### *Spotify Listening 🎵*
+### *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
 #
