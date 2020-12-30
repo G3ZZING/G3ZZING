@@ -1,6 +1,6 @@
 #                                                                    *G3ZZING*
 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://cdn.discordapp.com/attachments/708003453351231560/791666366456528906/iniciado.gif?raw=true" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://media.discordapp.net/attachments/793453573534122074/793836685347651584/Japa.gif" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 
 <h3 align="center">Connect with me</h3>
@@ -10,7 +10,7 @@
 <a href="https://twitch.tv/yg3zzing" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/791013889244135484/1608309141571.png" />
+<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://media.discordapp.net/attachments/793453573534122074/793836309168783376/fbe97876-7116-4a4a-bd19-67d502e2b2d6.png" />
 
 <h3 align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
 
