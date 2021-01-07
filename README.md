@@ -1,6 +1,6 @@
 #                                                                    *G3ZZING*
 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://media.discordapp.net/attachments/793453573534122074/793836685347651584/Japa.gif" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://media.discordapp.net/attachments/793453573534122074/796751956576043069/japa.gif" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 
 <h3 align="center">Connect with me</h3>
