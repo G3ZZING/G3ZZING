@@ -10,11 +10,11 @@
 <a href="https://twitch.tv/yg3zzing" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://media.discordapp.net/attachments/793453573534122074/793836309168783376/fbe97876-7116-4a4a-bd19-67d502e2b2d6.png" />
+<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/793453573534122074/796747098736820305/fbe97876-7116-4a4a-bd19-67d502e2b2d6.png" />
 
 <h3 align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=0dff00" alt="G3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000001" alt="G3" /> </p>
 
 #                                                                    *BIO*
 
