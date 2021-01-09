@@ -17,3 +17,5 @@
      
      "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
 ```
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000001" alt="G3" /> </p>
