@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<img src="https://cdn.discordapp.com/attachments/793453573534122074/797576731900772372/a_5693275616a1ed06969d58256fa6b2e1.gif" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://images-ext-2.discordapp.net/external/lbvgRVmvFQkNCkZqnUBunnp_LxIzoy3ekWrgxMgjouk/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/316470664280145920/a_3dbd731eea79f1cef05b1c220c20d324.gif?width=473&height=473" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 </p>
 
