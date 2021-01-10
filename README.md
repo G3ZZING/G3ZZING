@@ -5,7 +5,7 @@
 </p>
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://media.discordapp.net/attachments/793453573534122074/796751956576043069/japa.gif" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://media.discordapp.net/attachments/793453573534122074/797621916201910282/emoji.png" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```
       - 📚 I am a student in Programming and music, (not to mention my own school)
