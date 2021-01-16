@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<img src="https://media.discordapp.net/attachments/793131927275569163/797618827944525835/seikai_no_senki_crest_of_the_stars_lafiel_girl_elf_ears_earrings-695450.png?width=630&height=473" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://cdn.discordapp.com/attachments/793453573534122074/800030720277741568/G3.jpg" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 </p>
 
