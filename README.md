@@ -8,7 +8,7 @@
 ---
 
 
-#                                                                    *Languages and Status*
+
 
  <details style='text-align: center;' align='center'>
   <summary> Click Here! </summary>
