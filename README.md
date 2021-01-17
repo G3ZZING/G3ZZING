@@ -7,6 +7,19 @@
 
 ---
 
+
+#                                                                    *Languages and Status*
+
+ <details style='text-align: center;' align='center'>
+  <summary> Click Here! </summary>
+  <p style="text-align: center;"align="center">============================================================</p>
+  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING"><img align="center" src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="G3ZZING stats" /></a></p>
+  <p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=tokyonight" /></a></p>
+  <p style="text-align: center;"align="center">============================================================</p>
+</details>
+
+---
+
 ```
       - 📚 I am a student in Programming and music, (not to mention my own school)
       - 🌳 I'm 14 years old.
