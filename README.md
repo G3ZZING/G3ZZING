@@ -19,3 +19,11 @@
 ```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000001" alt="G3" /> </p>
+
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
+<a href="https://twitter.com/@not" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://twitch.tv/yg3zzing" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
+</p>
