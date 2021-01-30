@@ -20,7 +20,7 @@
 
 ---
 
-```
+```diff
       - 📚 I am a student in Programming and music, (not to mention my own school)
       - 🌳 I'm 14 years old.
       - 🧪 I always try to know more!
