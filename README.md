@@ -21,15 +21,16 @@
 ---
 
 ```diff
-      - 📚 I am a student in Programming and music, (not to mention my own school)
-      - 🌳 I'm 14 years old.
-      - 🧪 I always try to know more!
-      - 📁 I accept new friendships.
-      - 👨🏻‍💻 Look at some of my projects!
+- 📚 I am a student in Programming and music, (not to mention my own school)
++ 🌳 I'm 14 years old.
+! 🧪 I always try to know more!
++ 📁 I accept new friendships.
+- 👨🏻‍💻 Look at some of my projects!
 
      
-     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+! "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
 ```
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000001" alt="G3" /> </p>
 
