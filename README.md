@@ -1,7 +1,9 @@
-<p align="center">
+<p align="right">
   <a>
 <img src="https://cdn.discordapp.com/attachments/793453573534122074/800030720277741568/G3.jpg" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
+</p>
+<p align="center"> 私たちは毎日世界を変え、平和を望んでいます。しかし、これを達成するためのあなた自身の努力について考えましたか、それともそれはすべて単なる詐欺ですか？私たちは、これがいつか起こる可能性があると確信しています。だからどこでもそれをしなさい。
 </p>
 
 
