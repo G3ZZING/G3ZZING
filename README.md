@@ -13,9 +13,8 @@
 
 #                                  🔱 Welcome to Home
 
- - 🍵 **|** Olá seja bem-vindo ao meu painel do meu perfil da GitHub, me chamo G3ZZING. Mas conhecido como G3, tenho 14 anos de idade e abaixo irá ver um pouco sobre mim.
+<h3 align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
 
- - ❓ Hobbies : Não me destaco muito em hobbies.
 
  - 🔖 Discord: G3ZZING#0001
 
