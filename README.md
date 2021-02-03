@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000001" alt="G3" /> </p>
 
-<p align="right">
+<p align="center">
   <a>
 <img src="https://media.discordapp.net/attachments/794199872927432706/805558606165835786/wallpaper.jpg?width=756&height=473" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
