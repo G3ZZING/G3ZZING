@@ -28,6 +28,7 @@
 </details>
 
 
+---
 
 
 ### *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
@@ -35,7 +36,17 @@
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
 
-#     
+#                                                                    *BIO*
+
+      - 📚 I am a student in Programming and music, (not to mention my own school)
+      - 🌳 I'm 14 years old.
+      - 🧪 I always try to know more!
+      - 📁 I accept new friendships.
+      - 👨🏻‍💻 Look at some of my projects!
+
+     
+     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+    
 
 
 
