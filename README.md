@@ -42,6 +42,8 @@
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
 
+---
+
 <details style='text-align: center;' align='center'>
   <summary> CLICK HERE </summary>
   <p style="text-align: center;"align="center">============================================================</p>
