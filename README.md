@@ -2,7 +2,7 @@
 
 <p align="right">
   <a>
-<img src="blob:https://web.whatsapp.com/8e727764-5053-4d41-a220-a7b1da96d143" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://media.discordapp.net/attachments/794199872927432706/805558606165835786/wallpaper.jpg?width=756&height=473" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 </p>
 <p align="center"> 私たちは毎日世界を変え、平和を望んでいます。しかし、これを達成するためのあなた自身の努力について考えましたか、それともそれはすべて単なる詐欺ですか？私たちは、これがいつか起こる可能性があると確信しています。だからどこでもそれをしなさい。
