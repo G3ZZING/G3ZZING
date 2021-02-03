@@ -11,7 +11,6 @@
 
 ---
 
-#                                  🔱 Welcome to Home
 
 <h3 align="center">Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
 
