@@ -11,12 +11,34 @@
 
 ---
 
-> - 🍵 **|** Olá seja bem-vindo ao meu painel do meu perfil da GitHub, me chamo G3ZZING. Mas conhecido como G3, tenho 14 anos de idade e abaixo irá ver um pouco sobre mim.
+#                                  🔱 Welcome to Home
 
-> - 📝 **|** Trabalhando em Maellwed 1983, Casa Blanca & Destiny.
+ - 🍵 **|** Olá seja bem-vindo ao meu painel do meu perfil da GitHub, me chamo G3ZZING. Mas conhecido como G3, tenho 14 anos de idade e abaixo irá ver um pouco sobre mim.
 
+ - ❓ Hobbies : Não me destaco muito em hobbies.
+
+ - 🔖 Discord: G3ZZING#0001
+
+ - 📝 **|** Trabalhando em Maellwed 1983, Casa Blanca & Destiny.
+
+<details style='text-align: center;' align='center'>
+  <summary> CLICK HERE </summary>
+  <p style="text-align: center;"align="center">============================================================</p>
+  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING"><img align="center" src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="G3ZZING stats" /></a></p>
+  <p style="text-align: center;"align="center"><a href="https://github.com/G3ZZING?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=tokyonight" /></a></p>
+  <p style="text-align: center;"align="center">============================================================</p>
 </details>
-  <details style='text-align: center;'>
+
+## *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
+
+
+#                                                                    **ABOUT ME**
+
+          
+
+  <details style='text-align: center;' align='center'>
   <summary> MY BIO </summary>
   <p style="text-align: center;"><strong>📚 # I am a student in Programming and music, (not to mention my own school)</strong></p>
   <p style="text-align: center;"><strong>📝 # I'm 14 years old.</strong></p>
@@ -37,7 +59,6 @@
 </p
   <p style="text-align: center;>============================================================</p>
 </details>
-
 
 
 
