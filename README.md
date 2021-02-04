@@ -17,7 +17,7 @@
 
  - 🔖 Discord: G3ZZING#0001
 
- - 📝 Trabalhando em Maellwed 1983, Casa Blanca & Destiny.
+ - 📝 Working in Maellwed 1983, Casa Blanca & Destiny.
 
 
 ---
