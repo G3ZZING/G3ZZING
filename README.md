@@ -1,6 +1,6 @@
-<a href="https://youtu.be/s8j63jpiKIo" target="blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=54e3cb" alt="G3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=54e3cb" alt="G3" /> </p>
 
-<p align="center">
+<a href="https://youtu.be/s8j63jpiKIo" target="blank"><p align="center">
   <a>
 <img src="https://images-ext-2.discordapp.net/external/XeSybYJVHVoK9Xa3Z686EDaWQpe0YUqHyw3-3Zb9ZZE/%3Fsize%3D2048/https/cdn.discordapp.com/splashes/777978298009387039/4b5143eff5d025d6caefe9cfef4aa8d6.png" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
