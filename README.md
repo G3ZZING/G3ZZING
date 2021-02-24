@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=54e3cb" alt="G3" /> </p>
+<a href="https://youtu.be/s8j63jpiKIo" target="blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=54e3cb" alt="G3" /> </p>
 
 <p align="center">
   <a>
