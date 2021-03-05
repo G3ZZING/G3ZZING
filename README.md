@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=54e3cb" alt="G3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000000" alt="G3" /> </p>
 
 <p align="center">
   <a>
-<a href="https://youtu.be/s8j63jpiKIo" target="blank"><img src="https://images-ext-2.discordapp.net/external/XeSybYJVHVoK9Xa3Z686EDaWQpe0YUqHyw3-3Zb9ZZE/%3Fsize%3D2048/https/cdn.discordapp.com/splashes/777978298009387039/4b5143eff5d025d6caefe9cfef4aa8d6.png" alt="Avatar" style="border-radius: 50%%;">
+<a href="https://youtu.be/s8j63jpiKIo" target="blank"><img src="https://camo.githubusercontent.com/94d952032e762e6ee23a4d26e4ec3d68a9ffff9bd32300dfb2d6030eda8585a6/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3739343634363539363238343434383738392f3831343537323738363739383239373134382f756e6b6e6f776e2e706e67" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 </p>
 <p align="center">あなたの敵は誰ですか？
