@@ -24,6 +24,8 @@
 
 > 💬 | Of course, it is not mandatory to follow me. Call me on Discord! Let's talk!
 
+```📋 > G3ZZING#0001```
+
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
 </details>
