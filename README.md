@@ -45,6 +45,28 @@
 </details>
 
 <details>
+  <summary> 🍸 Projects </summary>
+
+| Projetos | Tags |
+| --- | --- |
+| [**Almighty Death**](https://github.com//?) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tools.svg/1200px-Tools.svg.png" height="30px" width="30px"/>|
+
+</details>
+
+<details>
+  <summary> 🔬 Server </summary>
+  
+  <p align="center"> <img src=https://cdn.discordapp.com/icons/693888384262995980/a_d55e32c006e04bc97f2ba84b2e8b506f.gif?size=2048" height="200px" width="200px"/>
+  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+<a href="https://discord.gg/bdf" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRE PRA BDF-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
+</p>
+  
+</details>
+
+<details>
   <summary> 🧪 Stats </summary>
   </p>
 <p align="center"> My GitHub status information.
@@ -52,3 +74,5 @@
  
 <a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&theme=highcontrast"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=highcontrast">
 </details>
+
+
