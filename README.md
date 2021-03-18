@@ -29,3 +29,12 @@
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
 </details>
+
+<details>
+  <summary> 🧪 Stats </summary>
+  </p>
+<p align="center"> My GitHub status information.
+</p>
+ 
+<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&theme=highcontrast"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=highcontrast">
+</details>
