@@ -17,7 +17,19 @@
 
 ---
  
-<details>
+ <details>
+  <summary> 🍵 History </summary>
+  
+      - 📚 I am a student in Programming and music, (not to mention my own school)
+      - 🌳 I'm 14 years old.
+      - 🧪 I always try to know more!
+      - 📁 I accept new friendships.
+      - 👨🏻‍💻 Look at some of my projects!
+
+     
+     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+ 
+</details>
   <summary> 🌍 Social Media </summary>
 
 [![Twitter Badge](https://img.shields.io/badge/-@none-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/?)](https://twitter.com/?) [![Gmail Badge](https://img.shields.io/badge/-g3zzinofc@gmail.com-ffffff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:4lxxxxcyber@gmail.com)](mailto:g3zzinofc@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-G3ZZING-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
