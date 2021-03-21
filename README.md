@@ -11,6 +11,10 @@
 
 ---
 
+### G3ZZING  <img src="https://media.discordapp.net/attachments/793453573534122074/823175084595478548/brasil_destiny.gif" height="20px" width="20px"/>
+
+- **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
+
 ### 🪐 Personal Biography
 
 > - Hello, my name is G3ZZING, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.
@@ -75,4 +79,5 @@
 <a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&theme=highcontrast"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=highcontrast">
 </details>
 
+---
 
