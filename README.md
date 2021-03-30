@@ -68,12 +68,19 @@
 
 <details>
   <summary> 🔬 And More </summary>
-  
-  <p align="center"> <img src="https://cdn.discordapp.com/attachments/826259284740014110/826259350427271178/image0-1.gif" height="300px" width="300px"/>
+
+```• I am currently in some private organizations, and making some tools. Given what is new ideas for me!```
+
+```diff
+! 🥼 Working From:
+
+@@Destiny 運命@@
++ XVII
+- Casa Blanca
+```
   
 ---
 
-```• I am currently in some private organizations, and making some tools. Given what is new ideas for me!```
 
 </p>
 
