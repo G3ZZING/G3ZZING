@@ -46,7 +46,7 @@
 - 📋 Discord: G3ZZING#0001
 + 🌎 Come talk to me!
 ! 🧠 Can you imagine what we're going to talk about?
-@@ App: Discord
+@@App: Discord@@
 ```
 
  *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
