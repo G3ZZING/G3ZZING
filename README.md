@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000000" alt="G3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=ffc7f3" alt="G3" /> </p>
 
 <p align="center">
   <a>
@@ -46,7 +46,7 @@
 - 📋 Discord: G3ZZING#0001
 + 🌎 Come talk to me!
 ! 🧠 Can you imagine what we're going to talk about?
-# App: Discord
+@@ App: Discord
 ```
 
  *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
@@ -69,12 +69,12 @@
 <details>
   <summary> 🔬 Server </summary>
   
-  <p align="center"> <img src=https://cdn.discordapp.com/icons/693888384262995980/a_d55e32c006e04bc97f2ba84b2e8b506f.gif?size=2048" height="200px" width="200px"/>
+  <p align="center"> <img src="https://cdn.discordapp.com/attachments/826259284740014110/826259350427271178/image0-1.gif" height="200px" width="200px"/>
   
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-<p align="center">
-<a href="https://discord.gg/bdf" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRE PRA BDF-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
+```• I am currently in some private organizations, and making some tools. Given what is new ideas for me!```
+
 </p>
   
 </details>
