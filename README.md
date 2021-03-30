@@ -67,13 +67,19 @@
 </details>
 
 <details>
-  <summary> 🔬 Server </summary>
+  <summary> 🔬 And More </summary>
   
-  <p align="center"> <img src="https://cdn.discordapp.com/attachments/826259284740014110/826259350427271178/image0-1.gif" height="200px" width="200px"/>
+  <p align="center"> <img src="https://cdn.discordapp.com/attachments/826259284740014110/826259350427271178/image0-1.gif" height="300px" width="300px"/>
   
 ---
 
 ```• I am currently in some private organizations, and making some tools. Given what is new ideas for me!```
+
+</p>
+
+<p align="center">自己动手做吧 ？
+
+</p>
 
 </p>
   
