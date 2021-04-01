@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=ffc7f3" alt="G3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=4287f5" alt="G3" /> </p>
 
 <p align="center">
   <a>
-<img src="https://camo.githubusercontent.com/94d952032e762e6ee23a4d26e4ec3d68a9ffff9bd32300dfb2d6030eda8585a6/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3739343634363539363238343434383738392f3831343537323738363739383239373134382f756e6b6e6f776e2e706e67" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://images-ext-1.discordapp.net/external/2kERwIJAHQ6WYIZU2gQXMasBzhYI9htR--739-LiTj8/%3Fwidth%3D960%26height%3D540/https/media.discordapp.net/attachments/499664629409120266/784056177310302308/Destiny.png?width=360&height=202" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 </p>
 <p align="center">あなたの敵は誰ですか？
@@ -98,7 +98,7 @@
 <p align="center"> My GitHub status information.
 </p>
  
-<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&theme=highcontrast"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=highcontrast">
+<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&layout=compact&show_icons=true&theme=tokyonight"> 
 </details>
 
 ---
