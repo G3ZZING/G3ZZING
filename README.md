@@ -1,17 +1,13 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=4287f5" alt="G3" /> </p>
-
 <p align="center">
   <a>
-<img src="https://images-ext-1.discordapp.net/external/2kERwIJAHQ6WYIZU2gQXMasBzhYI9htR--739-LiTj8/%3Fwidth%3D960%26height%3D540/https/media.discordapp.net/attachments/499664629409120266/784056177310302308/Destiny.png?width=360&height=202" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://camo.githubusercontent.com/4392fe8414e46118eb6ddcc972e6833793a515172c21bcdca955de17a1170855/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831333334313636323534353331333833322f3831333334333430343530373236373039322f706f6b656d6f6e5f706978656c2e676966" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
-</p>
-<p align="center">あなたの敵は誰ですか？
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=5d5d5d" alt="G3" /> </p>
 
 
 ---
 
-### G3ZZING  <img src="https://media.discordapp.net/attachments/793453573534122074/823175084595478548/brasil_destiny.gif" height="20px" width="20px"/>
+### G3ZZING  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
 
 - **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
 
