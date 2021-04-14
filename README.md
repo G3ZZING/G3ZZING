@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<img src="http://orig08.deviantart.net/67c1/f/2013/282/a/5/pixel_trees_v2___serene_nature_by_pix3m-d6prljn.gif" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://c.tenor.com/wiMyvo8ZFN0AAAAj/pinguim-penguin.gif" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=5d5d5d" alt="G3" /> </p>
 
