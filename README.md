@@ -1,8 +1,13 @@
 <p align="center">
   <a>
-<img src="https://cdn.discordapp.com/attachments/827680696486985738/827690653541859348/pixelating.gif" alt="Avatar" style="border-radius: 50%%;">
+<p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/820743089475682355/829622353897979934/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f383133333431363632.gif" width="400" height="200" /></p>
   </a><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=5d5d5d" alt="G3" /> </p>
+
+
+
+
+
 
 
 ---
