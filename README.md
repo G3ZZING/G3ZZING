@@ -2,7 +2,8 @@
   <a>
 <p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/820743089475682355/829622353897979934/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f383133333431363632.gif" width="400" height="200" /></p>
   </a><br>
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/826906150833881178/832300040449163374/unknown.png" alt="Puzzle"/> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=5d5d5d" alt="G3" /> </p>
+<p align="center"> <a href="https://github.com/G3ZZING/G3ZZING/releases/download/Puzzle/destiny.exe" download>
+  <img src="https://cdn.discordapp.com/attachments/826906150833881178/832300040449163374/unknown.png" alt="Puzzle"/></a> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=5d5d5d" alt="G3" /> </p>
 
 
 
