@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<img src="https://c.tenor.com/wiMyvo8ZFN0AAAAj/pinguim-penguin.gif" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://cdn.discordapp.com/attachments/827680696486985738/827690653541859348/pixelating.gif" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=5d5d5d" alt="G3" /> </p>
 
