@@ -100,7 +100,7 @@
 <p align="center"> My GitHub status information.
 </p>
  
-<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&text_color=D3D3D&bg_color=0,000000,130F40"> 
+<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"> 
 </details>
 
 ---
