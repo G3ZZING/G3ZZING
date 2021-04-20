@@ -3,7 +3,7 @@
 <p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/820743089475682355/829622353897979934/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f383133333431363632.gif" width="400" height="200" /></p>
   </a><br>
 <p align="center"> <a href="https://github.com/G3ZZING/G3ZZING/releases/download/Puzzle/destiny.exe" download>
-  <img src="https://cdn.discordapp.com/attachments/826906150833881178/832300040449163374/unknown.png" alt="Puzzle"/></a> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=7c664d" alt="G3" /> </p>
+  <img src="https://cdn.discordapp.com/attachments/826906150833881178/832300040449163374/unknown.png" alt="Puzzle"/></a> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=2fdeeb" alt="G3" /> </p>
 
 
 
@@ -100,7 +100,7 @@
 <p align="center"> My GitHub status information.
 </p>
  
-<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=4d4132&text_color=D3D3D3&bg_color=0,000000,74614a"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=000000&text_color=D3D3D3&bg_color=0,000000,74614a"> 
+<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=dfeaeb&icon_color=00dadd&text_color=D3D3D3&bg_color=0,000000,63f8fa"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=dfeaeb&text_color=D3D3D3&bg_color=0,000000,63f8fa"> 
 </details>
 
 ---
