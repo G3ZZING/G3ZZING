@@ -3,7 +3,7 @@
 <p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/820743089475682355/829622353897979934/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f383133333431363632.gif" width="400" height="200" /></p>
   </a><br>
 <p align="center"> <a href="https://github.com/G3ZZING/G3ZZING/releases/download/Puzzle/destiny.exe" download>
-  <img src="https://cdn.discordapp.com/attachments/826906150833881178/832300040449163374/unknown.png" alt="Puzzle"/></a> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=ff6b01" alt="G3" /> </p>
+  <img src="https://cdn.discordapp.com/attachments/826906150833881178/832300040449163374/unknown.png" alt="Puzzle"/></a> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=000000" alt="G3" /> </p>
 
 
 
@@ -55,7 +55,7 @@
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING) 
 
-<img src="https://cdn.discordapp.com/attachments/834140635698954242/834800657219059722/G3-removebg-preview-removebg-preview.png" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://cdn.discordapp.com/attachments/793453573534122074/800030720277741568/G3.jpg" alt="Avatar" style="border-radius: 50%%;">
 
 </details>
 
@@ -64,7 +64,7 @@
 
 | Projects | Tags |
 | --- | --- |
-| [**Almighty Death**](https://github.com/Almighty-Death) | <img src="https://cdn.discordapp.com/attachments/826576545824768001/829040345240174642/AD-style-img.png" height="30px" width="30px"/>|
+| [**Almighty Death**](https://github.com/Almighty-Death) | <img src="https://cdn.discordapp.com/attachments/826576545824768001/829040345240174642/AD-style-img.png" height="30px" width="30px"/>| 
 
 </details>
 
@@ -100,7 +100,7 @@
 <p align="center"> My GitHub status information.
 </p>
  
-<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=dfeaeb&icon_color=ff6b01&text_color=D3D3D3&bg_color=0,000000,ff6b01"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=dfeaeb&text_color=D3D3D3&bg_color=0,000000,ff6b01"> 
+<a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,e6f1eb,000000"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=000000&text_color=000000&bg_color=0,e6f1eb,000000"> 
 </details>
 
 ---
