@@ -55,7 +55,7 @@
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING) 
 
-<img src="https://cdn.discordapp.com/attachments/793453573534122074/800030720277741568/G3.jpg" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://cdn.discordapp.com/attachments/826803925322825810/837488172724256818/20210429_213738.jpg" alt="Avatar" style="border-radius: 50%%;">
 
 </details>
 
