@@ -19,7 +19,7 @@
 
 ### 🪐 Personal Biography
 
-> - Hello, my name is [G3ZZING](https://g3zzing.github.io), but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects here.
+> - Hello, my name is __**[G3ZZING](https://g3zzing.github.io)**__, but known as G3!  I am 14 years old and I am currently living in Goiânia, Brazil. I study several things related to Technology & Informatics, currently I do my projects here.
 
 ---
  
