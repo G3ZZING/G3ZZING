@@ -44,18 +44,22 @@
 
 > 💬 | Of course, it is not mandatory to follow me. Call me on Discord! Let's talk!
 
+ <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/826547446603317248.png" />
+</p>
+
+
 ```diff
-- 📋 Discord: G3ZZING#0001
 + 🌎 Come talk to me!
 ! 🧠 Can you imagine what we're going to talk about?
 @@App: Discord@@
 ```
 
+
  *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING) 
 
-<img src="https://cdn.discordapp.com/attachments/826803925322825810/837488172724256818/20210429_213738.jpg" alt="Avatar" style="border-radius: 50%%;">
 
 </details>
 
@@ -79,19 +83,38 @@
 @@Destiny 運命@@
 + XVII
 - Casa Blanca
+! Abyss Partner 
 ```
+  <p align="center"> 
+    ﹒
+    Just a few friendly organizations that I participate in.
+    ﹒
+    自己动手做吧 ？
+    ﹒
+</p>
+
+
+
+</p>
+
+
+</p>
   
----
+</details>
 
-
-</p>
-
-<p align="center">自己动手做吧 ？
-
-</p>
-
-</p>
+<details>
+  <summary> 📰 Tags </summary>
   
+<p align="center"> 
+    ﹒
+    <a href="https://discord.com/users/826547446603317248" target="blank"><img align="center" src="https://img.shields.io/badge/-Contact Me -0081c7?style=for-the-badge&labelColor=7CB342" alt="ContactButton"/></a>
+    ﹒
+        <a href="https://destiny-org.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-Destiny Website -000000?style=for-the-badge&labelColor=7CB342" alt="WebsiteButton"/></a>
+    ﹒
+</p>
+
+<img src="https://cdn.discordapp.com/attachments/826803925322825810/837488172724256818/20210429_213738.jpg" alt="Logo" style="border-radius: 50%%;">
+
 </details>
 
 <details>
@@ -102,6 +125,7 @@
  
 <a href="https://github.com/G3ZZING"><img src="https://github-readme-stats.vercel.app/api?username=G3ZZING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,e6f1eb,000000"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3ZZING&title_color=000000&text_color=000000&bg_color=0,e6f1eb,000000"> 
 </details>
+
 
 ---
 
